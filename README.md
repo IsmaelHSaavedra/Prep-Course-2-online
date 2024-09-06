@@ -1,2 +1,2 @@
 # Prep-Course-2-online
-Este es un repositorio de prueba del prepcourse de Henry
+Este es un repositorio de como crear un repositorio y editarlo de forma local
